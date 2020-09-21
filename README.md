@@ -1,6 +1,7 @@
 # IWRM
 
 
+
 ## Water and soceity, a conceptual frame (CF) for communities
 
 The read of the CF starts from the outside, with 2 arrows that are the scale and the time. The scale could be Global, Regional, National or Local, but also you can define another scale for example a major basin (Binational like Sixaola River Basin) or a micro basin (María Aguilar River Basin). The time must be defined in function of the temporal space that we want to work, for example it could start in the 70's and ends in the  near future (2025), this definition could help to understand some dynamics within the space we are working with. Note that the scale and the time are in the major Boundary.
