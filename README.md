@@ -1,6 +1,6 @@
 # IWRM
 
-
+![](/IWMR/frame1.png)
 
 ## Water and soceity, a conceptual frame (CF) for communities
 
@@ -17,5 +17,5 @@ In the end we have the outcome, which are the products that we can obtain from t
 We have the feedback like a product that could get back to the system after the analysis of the outcomes.
 
 
-![](/IWMR/frame1.png)
+
 
