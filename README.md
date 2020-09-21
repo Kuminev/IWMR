@@ -13,6 +13,7 @@ In this CF there are three tiers of elements that could be defined for different
 
 In the end we have the outcome, which are the products that we can obtain from the interaction in system of work, those could be pollution patterns (sewage waters, solid waste, externalities, shortage).
 
-We have the feedback like a product that could get back to the system after the analysis of the outcomes. 
+We have the feedback like a product that could get back to the system after the analysis of the outcomes.
 
 ![frame](https://github.com/Kuminev/IWMR/blob/master/frame1.png)
+
